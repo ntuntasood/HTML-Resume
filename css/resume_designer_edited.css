@@ -106,7 +106,7 @@ aside a:hover {
 
 .wrapper {
     width: 90%;
-    /*    max-width: 960px;*/
+    /*max-width: 960px;*/
     /*width: 960px;*/
     
     margin: 0 5%;
@@ -367,7 +367,7 @@ abbr[title]:after {
     font-weight: 500;
     text-transform: uppercase;
     line-height: 1em;
-    padding: .4em 1.5em .3em;
+    padding: .4em 1.4em .3em;
     margin-top: .25em;
 }
 .right-container .list {
